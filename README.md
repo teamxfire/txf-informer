@@ -12,9 +12,9 @@ Tutorial : https://t.me/TXF2022/24
 
 --------------------------
 
-### Bot Username:::
+### Bot :::
 
-@txfinformerbot
+https://t.me/txfinformerbot
 
 ---------------------------
 
